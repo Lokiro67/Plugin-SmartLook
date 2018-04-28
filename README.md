@@ -1,5 +1,6 @@
 # Plugin-SmartLook
-##Suivez l'activité de vos joueurs sur votre site, le tout en vidéo !
+
+#Suivez l'activité de vos joueurs sur votre site, le tout en vidéo !
 
 "Smartlook enregistre toutes les actions des visiteurs sur votre site. Tout ça gratuitement."
 
