@@ -1,0 +1,21 @@
+{
+    "MAIN_TITLE": "Smartlook - Suivez l'activité de vos joueurs sur votre site, le tout en vidéo !",
+    "SMARTLOOK_PRESENTATION_TITLE": "\"Smartlook enregistre toutes les actions des visiteurs sur votre site. Tout ça gratuitement.\"",
+    "SMARTLOOK_PRESENTATION_SUBTITLE": "\"Smartlook est un outil simple qui enregistre les écrans d’utilisateurs réels sur ton site Web. Tu peux voir où les visiteurs ont cliqué avec leur souris, comment ils ont rempli les formulaires, où ils ont passé la majeure partie de leur temps et comment ils ont navigué sur chaque page.\"",
+    "HELP": "Aide",
+    "WHERE_TRACKING_NUMBER": "Où puis-je trouver mon \"numéro de suivi\" ?",
+    "HELP_STEP_1": "1. Se rendre sur le site de Smartlook à <a href=\"https://www.smartlook.com/fr/\" target=\"_blank\">cette adresse</a>. Ensuite, cliquez sur le bouton \"Commence dès maintenant\" :",
+    "HELP_STEP_2": "2. S'enregistrer et cliquer sur le bouton \"Jeter un coup d'œil\" :",
+    "HELP_STEP_3": "3. Récupérer le numéro de suivi dans le code javascript (regarder figure 3) et le l'enregistrer ici sur mineweb.",
+    "HELP_STEP_4": "4. Cliquer sur le bouton \"Terminé, montrez-moi les enregistrements\", voilà le plugin est configuré !",
+    "CONFIGURATION_TITLE": "Configuration",
+    "TRACKING_CODE_LABEL_TITLE": "Veuillez saisir votre code de suivi (récupéré à l'étape 3 de \"l'aide\") :",
+    "TRACKING_CODE_INPUT_PLACEHOLDER": "Numéro de suivi Smartlook",
+    "TRACKING_ADMIN_TITLE": "Désactiver le suivi pour les administrateurs",
+    "TRACKING_CODE_REGISTER": "Enregistrer",
+    "PLUGIN_DEVELOPED_BY": "Plugin développé par kenshimdev - <a href=\"https://kenshimdev.fr/\" target=\"_blank\">https://kenshimdev.fr/</a>",
+    "TRACKING_FORM_ADD_SUCCESS": "Votre code de suivi a été ajouté avec succès !",
+    "TRACKING_FORM_EDIT_SUCCESS": "Votre code de suivi a correctement été mis à jour !",
+    "TRACKING_FORM_EDIT_ERROR": "Désolé ! Une erreur est surevenue... Impossible d'éditer votre code de suivi",
+    "TRACKING_FORM_LENGTH_ERROR": "Le code de suivi doit être de 40 caractères."
+}

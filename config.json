@@ -1,0 +1,1 @@
+{"name":"SmartLook","admin_menus":{"GLOBAL__ADMIN_GENERAL":{"Smartlook":{"icon":"eye","menu":{"Configurer":{"icon":"cog","route":"/admin/smartlook"}}}}},"navbar_routes":{},"author":"Kenshimdev","version":"1.2.0","apiID":8,"useEvents":true,"permissions":{"available":[],"default":{"0":[],"2":[]}},"requirements":{"CMS":"^1.2.0"}}
